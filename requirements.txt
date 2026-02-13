@@ -1,2 +1,5 @@
 mistralai[realtime]
-pyaudio
+# pyaudio → Déprécié, remplacé par sounddevice
+sounddevice
+numpy
+python-dotenv
