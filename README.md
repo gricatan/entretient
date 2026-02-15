@@ -1,7 +1,7 @@
 
-# Entretient
+# Entretien avec Misral AI (Vocal)
 
-## Installation
+## I / Installation
 
 ### 1 Fork [https://github.com/gricatan/PROJECT](https://github.com/gricatan/PROJECT) → Dans GH, avec *TON_USER_COMPTE*
 
@@ -32,8 +32,8 @@ Exemple pour Win (Adaptes si autre OS !) :
 
 (Au besoin, génères en une sur [https://console.mistral.ai/codestral/cli?workspace_dialog=apiKeys](https://console.mistral.ai/codestral/cli?workspace_dialog=apiKeys))
 
-## Enjoy ! 😊
+## II / Enjoy ! 😊
 
 ```bash
-python TheSCRIPT.py
+python A_SCRIPT.py
 ```
