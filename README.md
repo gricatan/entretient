@@ -18,7 +18,7 @@ Exemple pour Win (Adaptes si autre OS !) :
 
 1. Décompresses [https://www.python.org/ftp/python/3.12.10/python-3.12.10-amd64.zip](https://www.python.org/ftp/python/3.12.10/python-3.12.10-amd64.zip) dans  **C:\Python312\\**
 
-2. Fais ton virtual environment (.VEnv) avec ce 'vieux' Python, upgrades le pip et poses-y les libs utiles
+2. Fais ton Virtual Environment (.VEnv) avec ce 'vieux' Python, upgrades le pip et poses-y les libs utiles
 
     ```bash
     C:\Python312\python.exe -m venv .venv
