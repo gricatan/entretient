@@ -28,7 +28,7 @@ Exemple pour Win (Adaptes si autre OS !) :
     pip install -r requirements
     ```
 
-### 4 Renommes .env_exemple en .env et renseignes y ton MISTRAL_API_KEY
+### 4 Renommes .env_example en .env et renseignes y ton MISTRAL_API_KEY
 
 (Au besoin, génères en une sur [https://console.mistral.ai/codestral/cli?workspace_dialog=apiKeys](https://console.mistral.ai/codestral/cli?workspace_dialog=apiKeys))
 
